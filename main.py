@@ -19,3 +19,8 @@ print (pole_trojkata)
 bok_a = 5
 pole_szescian = bok_a**2*6
 print(pole_szescian)
+
+bok_a = 10
+wysokosc_rombu = 2
+pole_rombu = bok_a*wysokosc_rombu
+print(pole_rombu)
