@@ -15,3 +15,7 @@ wysokosc_trojkat = 10
 
 pole_trojkata = 1/2*bok_a*wysokosc_trojkat
 print (pole_trojkata)
+
+bok_a = 5
+pole_szescian = bok_a**2*6
+print(pole_szescian)
